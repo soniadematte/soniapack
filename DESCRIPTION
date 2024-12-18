@@ -8,7 +8,7 @@ Description: This package is using simple functions for a first development exem
 Encoding: UTF-8
 Language: en-GB
 License: GPL(>=2)
-Depends: R (>=4.0.0)
+Depends: R ( >=4.0.0)
 Imports: devtools
 Suggests: knitr
 Config/testthat/edision: 1
